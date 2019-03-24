@@ -4,7 +4,7 @@ Este es el repositorio de los labs del curso de Inteligancia Artificial (MT616) 
 
 https://piazza.com/universidad_nacional_de_ingenieria/spring2019/mt616/home
 
-## UNI Machine Learning 2018-2
+## UNI Machine Learning 2019-1
 
 Estamos siendo bombardeados constantemente por en un montón de aplicaciones y tecnologías disruptivas que están usando e integrando progresivamente el machine learning como son los autos autónomos, los robots voladores, el reconocimiento de voz, la búsqueda relevante en internet, la comprensión mejorada del genoma humano, los microarrays y bioinformática, los chatbots, etc. Como se puede ver machine learning es omnipresente en nuestras vidas diarias y lo usamos cada día sin darnos cuenta. Machine learning es considerado la nueva electricidad y Google recientemente se atrevió a afirmar que el futuro es machine learning.
 
@@ -35,7 +35,7 @@ Classification: Decision Trees
 
 Decision trees & overfitting
 
-Classification: k-‐Nearest Neighbor & Instance-based Learning
+Classification: k‐Nearest Neighbor & Instance-based Learning
 Review
 
 Parcial
